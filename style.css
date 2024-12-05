@@ -1,0 +1,7 @@
+h1{
+    color: red;
+}
+/* pseudo-class */
+a:visited{
+    color:blueviolet;
+}
